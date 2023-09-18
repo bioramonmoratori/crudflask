@@ -14,7 +14,7 @@ Para ficar informado sobre futuros processos seletivos, siga a gente no Instagra
 
 # API Biblioteca de Livros
 
-Biblioteca de Livros com possibilidade de cadastrar, 
+Biblioteca de Livros com possibilidade de cadastrar livros, listar autores e acompanhar o status dos livros. 
 As requisições podem ser realizadas através da URL [http://146.235.38.15:5000/](http://146.235.38.15:5000/)
 
 ## [/livros](http://146.235.38.15/livros):
